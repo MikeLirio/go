@@ -2,6 +2,8 @@
 
 This is my personal workspace of GO. I will push everything related with GO that I made here.
 
+*This README is written with [Typora][] software.*
+
 ## Repository Three
 
 * first-try: introduction to the language.
@@ -12,13 +14,12 @@ This is my personal workspace of GO. I will push everything related with GO that
 
 ## Useful Links
 
-* [GO_Official]: https://golang.org/ "Official site of the language."
+[Typora]: https://typora.io/ "Typora official Webpage"
+[GO_Official]: https://golang.org/ "Official site of the language."
 
 ## Useful Videos
 
-* [YTB_01]: https://www.youtube.com/watch?v=C8LgvuEBraI "Learn Go in 12 Minutes"
-
-* 
+[YTB_01]: https://www.youtube.com/watch?v=C8LgvuEBraI "Learn Go in 12 Minutes"
 
 ## POWERSHELL useful code
 
