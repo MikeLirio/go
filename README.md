@@ -6,10 +6,10 @@ This is my personal workspace of GO. I will push everything related with GO that
 
 ## Repository Three
 
-* 
-* Repositories created based on video [seeing the this video from YouTube][YTB_01].
+* Repositories created based on video [seeing the this video from YouTube][YTB_01]. Quite basic, but cool ^^
   * **hello_there**: classic hello world .
-  * 
+  * **summary**: it contains basic types, loops, maps, arrays, list and conditionals
+  * **summary_advanced**: it contains pointers, structs and error handling
 
 ## Notes
 
