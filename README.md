@@ -7,9 +7,10 @@ This is my personal workspace of GO. I will push everything related with GO that
 ## Repository Three
 
 * Repositories created based on video [seeing the this video from YouTube][YTB_01]. Quite basic, but cool ^^
-  * **hello_there**: classic hello world .
-  * **summary**: it contains basic types, loops, maps, arrays, list and conditionals
-  * **summary_advanced**: it contains pointers, structs and error handling
+  Click on the repos to go the *go* file.
+  * [**hello_there**][GH_hello]: classic hello world .
+  * [**summary**][GH_s1]: it contains basic types, loops, maps, arrays, list and conditionals
+  * [**summary_advanced**][GH_s2]: it contains pointers, structs and error handling
 
 ## Notes
 
@@ -45,6 +46,9 @@ This is my personal workspace of GO. I will push everything related with GO that
 [Typora]: https://typora.io/ "Typora official Webpage"
 [GO_pkg]: https://golang.org/pkg/ "Useful links with a lot of libraries."
 [GO_Official]: https://golang.org/ "Official site of the language."
+[GH_hello]: https://github.com/MikeLirio/go/blob/master/hello_there/hello.go "example of how to do a Hello World"
+[GH_s1]: https://github.com/MikeLirio/go/blob/master/summary/summary.go "File with the basic examples."
+[GH_s2]: https://github.com/MikeLirio/go/blob/master/summary_advanced/summary_advanced.go "Continue of the basic examples."
 
 ## Useful Videos
 
