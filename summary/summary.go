@@ -8,11 +8,13 @@ func main() {
 	var varInteger int
 	var varString string
 	var varBoolean bool
+	var varFloat64 float64
 
 	fmt.Println("Printing default values from GO lenguage:")
 	fmt.Println(varInteger)
 	fmt.Println(varString)
 	fmt.Println(varBoolean)
+	fmt.Println(varFloat64)
 
 	var x int = 2
 	var y int = 3
