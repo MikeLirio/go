@@ -6,20 +6,55 @@ This is my personal workspace of GO. I will push everything related with GO that
 
 ## Repository Three
 
-* first-try: introduction to the language.
+* 
+* Repositories created based on video [seeing the this video from YouTube][YTB_01].
+  * **hello_there**: classic hello world .
+  * 
 
 ## Notes
 
-* All projects are located in the same folder called **workspace**.
+* All projects are located in the same folder called **workspace**. Because of that, all project you do should go inside of the folder `src`.  The final three should something similar to this:
+
+  ```paths
+  gopath/user/go #This can be complete customized
+  	|- bin
+          ........
+  		list_of_compiled_executables.exe
+  		........
+  	|- src
+  		|-project1
+  		|-project2
+          |-........
+  		|-projectN
+  	|- pkg
+  		|-...........
+          |-folder_packages_downloaded
+          |-...........
+  ```
+
+* All application that you want to be executed *must have a package call* ***main***.
+
+* Is **important** to take a look on the packages from [golang webpage][GO_pkg].
 
 ## Useful Links
 
 [Typora]: https://typora.io/ "Typora official Webpage"
+[GO_pkg]: https://golang.org/pkg/ "Useful links with a lot of libraries."
 [GO_Official]: https://golang.org/ "Official site of the language."
 
 ## Useful Videos
 
 [YTB_01]: https://www.youtube.com/watch?v=C8LgvuEBraI "Learn Go in 12 Minutes"
+
+## Commands
+
+```bash
+# Execute the file indicated
+go run {file.go}
+
+# install the project on bin folden
+go install
+```
 
 ## POWERSHELL useful code
 
