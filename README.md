@@ -36,6 +36,10 @@ This is my personal workspace of GO. I will push everything related with GO that
 
 * Is **important** to take a look on the packages from [golang webpage][GO_pkg].
 
+* ***GO DOES NOT HAVE EXEPTIONS !!!!***
+
+* ***GO USE POINTERS !!! :blue_heart:***
+
 ## Useful Links
 
 [Typora]: https://typora.io/ "Typora official Webpage"
@@ -53,7 +57,7 @@ This is my personal workspace of GO. I will push everything related with GO that
 go run {file.go}
 
 # install the project on bin folden
-go install
+go install 
 ```
 
 ## POWERSHELL useful code
